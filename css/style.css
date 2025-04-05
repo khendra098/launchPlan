@@ -41,8 +41,8 @@
     align-items: center;
 }
 .dot {
-    width: 20px;
-    height: 20px;
+    width: 14px;
+    height: 14px;
     background-color: #ffffff;
     border-radius: 50%;
     transition: 0.3s ease;
@@ -61,22 +61,22 @@ header {
     align-items: center;
 }
 .img-index img {
-    width: 1080px;
+    width: 800px;
     position: fixed;
     right: 0;
 }
 .borcelle {
     position: fixed;
-    top: 90px;
+    top: 60px;
     left: 90px;
 }
 .borcelle p {
-    font-size: 28px;
+    font-size: 20px;
 }
 
 .tilte-header-index {
     position: fixed;
-    top: 340px;
+    top: 270px;
     left: 90px;
 }
 .tilte-header-index h1 {
@@ -99,7 +99,7 @@ header {
 
 .paragraph-title-header-index {
     position: fixed;
-    bottom: 240px;
+    bottom: 120px;
     left: 90px;
     width: 400px;
 }
@@ -118,13 +118,13 @@ header {
 
 /* EXTRA DECORATION */
 .green {
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
     background-color: #00c99f;
     border-radius: 50%;
     transition: 0.3s ease;
     position: fixed;
-    bottom: 100px;
+    bottom: 70px;
     left: 70px;
 }
 .orange {
@@ -134,7 +134,7 @@ header {
     border-radius: 50%;
     transition: 0.3s ease;
     position: fixed;
-    top: 280px;
+    top: 200px;
     left: 180px;
 }
 .red {
